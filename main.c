@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "pila.h"
-
+///IGNACIO NIZETICH| UTN MAR DEL PLATA
 void cargarPila(Pila *pila);
 void pasarPila(Pila *pila1, Pila *pila2);
 void pasarOrdenada(Pila *pila1, Pila *pila2);
@@ -202,7 +202,7 @@ int sumarPrimeros(Pila *pila1)
     return suma;
 }
 
-/** Saber cu·ntos elementos tiene Pila*/
+/** Saber cu√°ntos elementos tiene Pila*/
 int pilaValidos(Pila *pila1)
 {
     Pila aux;
